@@ -1,0 +1,40 @@
+2022-12-12
+qna write 
+쿼리문 수정
+이하 모든 로직 재수정
+
+2022/12/13
+write detail 제외 완료
+list 로직 구현 중 (controller)
+-service 실행 안됨
+
+2022/12/14
+view vo null 뜸
+controller 실행 안됨
+write, list 큰 틀 구성 완료
+
+2022/12/15
+계정 마스킹 처리 완료
+qna write - 테이블&데이터 추가  -- 유형 선택 
+qna list - 페이지 작업 and 답변 후 답변완료 바꾸기(ajax)   2 --- 밑에 로직 구현 후 가능
+qna view - 답변 화면&기능구현(ajax)   1  --- 관리자 페이지에서 답변 한 내용을 출력 (없으면 출력 안함)
+article 테이블에 parent 추가
+
+2022/12/16
+페이징 처리 완료
+uid session 처리 해야함
+메뉴에 맞는 글 목록 이동 처리(cate)
+
+2022/12/21
+cs/qna list 복구
+css 복구
+cate 별로 리스트 출력 완료
+cate 별 페이징 완료
+view 출력 완료 (2차카테 안나옴)
+a태그 링크에 cate 값 넣어주기
+
+2022/12/22
+cs / qna 완료(index 리스트 출력까지 완료)
+write 부분 css만 손 보면 끝
+
+답변 출력 완료
